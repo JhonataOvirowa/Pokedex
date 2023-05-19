@@ -3,7 +3,7 @@ Uma pokedex com htlm, css &amp; js. Utilizando a PokéAPI.
 
 # MODO DE USO.
 
-1-Utilize o nome dos Pokémons da primeira geração a quinta. Utilize o nome corretamente do pokemon, independentemente das letras serem maiúsculas ou minúscolas.
+1-Utilize o nome dos Pokémons da primeira geração a quinta. Utilize o nome corretamente do pokemon, independentemente das letras serem maiúsculas ou minúsculas.
 ```go 
 <Pikachu> == 25.
 <pikachu> == 25.
