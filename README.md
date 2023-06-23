@@ -10,7 +10,7 @@ Uma pokedex com htlm, css &amp; js. Utilizando a PokéAPI.
 ```
 2-Ultilize a numeração dos Pokémons da primeira geração até a quinta geração.
 ```go 
-<145> == zapdos.
+<001> == bulbasaur.
 <649> == genesect.
 ```
 # (digite os <parâmetros> sem o uso de "<>").
